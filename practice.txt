@@ -1,0 +1,35 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+From zqian@umich.edu Fri Jan  4 16:10:39 2008
+From rjlowe@iupui.edu Fri Jan  4 15:46:24 2008
+From cwen@iupui.edu Fri Jan  4 15:43:12 2008
+From cwen@iupui.edu Fri Jan  4 15:42:23 2008
+From gsilver@umich.edu Fri Jan  4 11:30:18 2008
+From gsilver@umich.edu Fri Jan  4 11:28:12 2008
+From gsilver@umich.edu Fri Jan  4 11:27:21 2008
+From zqian@umich.edu Fri Jan  4 10:03:12 2008
+From stephen.marquard@uct.ac.za Fri Jan  4 09:02:55 2008
+From stephen.marquard@uct.ac.za Fri Jan  4 09:01:10 2008
+From antranig@caret.cam.ac.uk Fri Jan  4 07:02:33 2008
+From gopal.ramasammycook@gmail.com Thu Jan  3 19:20:11 2008
+From dlh@uchicago.edu Thu Jan  3 17:18:05 2008
+From dlh@uchicago.edu Thu Jan  3 17:17:44 2008
+From cwen@iupui.edu Thu Jan  3 16:59:22 2008
+From ray@media.berkeley.edu Thu Jan  3 16:22:17 2008
+From rjlowe@iupui.edu Thu Jan  3 14:11:02 2008
+From zqian@umich.edu Thu Jan  3 06:08:33 2008
+From wagnermr@iupui.edu Thu Jan  3 04:55:05 2008
+From someone@weird-domain.net Thu Jan  3 04:01:01 2008
+From stephen.marquard@uct.ac.za Wed Jan  2 18:54:12 2008
+From louis@media.berkeley.edu Wed Jan  2 18:40:59 2008
+From n0reply@umich.edu Wed Jan  2 10:10:10 2008
+From admin@server.local Wed Jan  2 10:10:59 2008
+From admin@server.local Wed Jan  2 10:11:00 2008
+
+This is a random line you should ignore.
+From: not a real From line (should be ignored)
+From badline-with-missing-fields
+From incomplete@line Fri Jan  4 99:99:99 2008
+From iupui.edu Fri Jan  4 12:12:12 2008
+From stephen.marquard@uct.ac.za Fri Jan  4 09:XX:10 2008
+From extra.spaces@umich.edu   Fri   Jan  4   09:14:16 2008
